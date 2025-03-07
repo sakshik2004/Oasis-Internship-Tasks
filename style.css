@@ -500,18 +500,5 @@ button:hover {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 
-/* Responsive Design */
-@media (max-width: 480px) {
-  h1 {
-      font-size: 20px;
-  }
 
-  input, select, button {
-      font-size: 14px;
-  }
-
-  #result {
-      font-size: 16px;
-  }
-}
 >>>>>>> 039ad220c677eed50d43f4d6b291b59a4cc7cad8
